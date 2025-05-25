@@ -5,10 +5,9 @@ A minimalist clone of the Chrome Dino game featuring:
 - 🟥 Red block obstacles
 - ⏱️ Score tracking with local high scores
 - 🚀 Progressive difficulty
-- 📱 Mobile-friendly controls
 
 ## How to Play
-- Press **SPACE** or **TAP** to jump
+- Press **SPACE** to jump
 - Avoid the red blocks
 - Game ends on collision
 - Press SPACE to restart
