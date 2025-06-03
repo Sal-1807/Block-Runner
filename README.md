@@ -21,6 +21,8 @@ A minimalist clone of the Chrome Dino game featuring:
 ## Live Demo
 Play the game here: https://blockzrunner.netlify.app/
 
+Note: Only possible on Computer's , not yet suited for Mobile's and Tablet's 
+
 ## Development
 To run locally:
 1. Clone this repo
